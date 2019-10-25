@@ -1,0 +1,15 @@
+# Temporary files
+*.swp
+*.swo
+
+# Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Byte-compiled / optimized / DLL files
+code/__pycache__/*
+*.py[cod]
+*$py.class
+
+# Data dit
+data/
